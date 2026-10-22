@@ -1,60 +1,37 @@
 ## Programa de Treinamento e Conscientização em IA
-
 # Objetivo
+Garantir que todos os colaboradores compreendam os princípios de uso responsável da Inteligência Artificial, os riscos associados, requisitos regulatórios e responsabilidades individuais.
 
-# Garantir que colaboradores, gestores e terceiros compreendam:
+# Escopo
+Este programa aplica-se a:
 
-- Uso responsável da IA
-- Riscos associados
-- Requisitos regulatórios
-- Política corporativa de IA
-- Responsabilidades individuais
+- Colaboradores
+- Gestores
+- Equipes Técnicas
+- Fornecedores
+- Consultores
 
-# Público-Alvo
+# Objetivos do Programa
+- Promover uso responsável da IA
+- Reduzir riscos operacionais
+- Atender requisitos regulatórios
+- Apoiar a conformidade com ISO 42001
+- Fortalecer a cultura organizacional
 
-# Todos os Colaboradores
-# Treinamento básico sobre:
-
-- O que é IA
-- Uso seguro
-- Privacidade
-- LGPD
-- Boas práticas
+# Papéis e Responsabilidades
+RH
+Responsável pela coordenação dos treinamentos.
 
 # Gestores
+Responsáveis por garantir participação das equipes.
 
-# Treinamento adicional:
-
-- Aprovação de sistemas de IA
-- Gestão de riscos
-- Monitoramento
-
-# Times Técnicos
-
-# Treinamento avançado:
-
-- Desenvolvimento responsável
-- Viés algorítmico
-- Segurança
-- Explainability
-
-# Frequência
-
-- Público	Frequência
-- Colaboradores	Anual
-- Gestores	Anual
-- Equipe Técnica	Semestral
+Equipe de Governança de IA
+Responsável pelo conteúdo e atualização dos treinamentos.
 
 # Evidências
 
 - Certificados
-- Lista de presença
-- LMS
-- Registros de treinamento
-
-# Métricas
-
-- % colaboradores treinados
-- % gestores treinados
-- % equipes técnicas treinadas
-- Média de avaliação
+- Avaliações
+- Registro de presença
+- Histórico LMS
+- Relatórios de participação

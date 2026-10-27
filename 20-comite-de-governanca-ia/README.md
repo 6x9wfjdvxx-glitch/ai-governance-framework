@@ -33,3 +33,15 @@ Estabelecer a estrutura de governança responsável pela supervisão, direcionam
 - Lista de presença
 - Decisões registradas
 - Planos de ação
+
+# Referências
+- ISO/IEC 42001:2023 – Information technology — Artificial intelligence — Management system.
+- ISO/IEC 23894:2023 – Artificial intelligence — Guidance on risk management.
+
+- NIST AI Risk Management Framework (AI RMF 1.0).
+
+- OECD AI Principles.
+
+- UNESCO Recommendation on the Ethics of Artificial Intelligence.
+
+- European Union Artificial Intelligence Act (EU AI Act).
